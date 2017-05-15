@@ -1,0 +1,13 @@
+{
+    "SERVER": "http://ecd.cnsnt.io",
+    "UNSTABLE": false,
+    "API_VERSION": 1,
+    "DEBUG": {
+        "MASTER": false,
+        "ACTION": false,
+        "NETWORK": false,
+        "REACT": false,
+        "NAVIGATOR": false,
+        "AUTO_LOGIN": false
+    }
+}
