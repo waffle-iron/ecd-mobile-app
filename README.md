@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/TrustlabTech/ecd-mobile-app.png?label=ready&title=Ready)](https://waffle.io/TrustlabTech/ecd-mobile-app?utm_source=badge)
 # Consent ECD
 [![Standard - JavaScript Style Guide](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
 ![screen shot 2017-01-18 at 10 56 50 am](https://cloud.githubusercontent.com/assets/4153188/22057322/ee5f22c6-dd6c-11e6-9c53-4f5659f2f25c.png)
